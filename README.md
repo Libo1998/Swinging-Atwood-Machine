@@ -1,8 +1,8 @@
 # Swinging-Atwood-Machine
 Study of the Swinging-Atwood's machine dinamics with Lagrangian and Hamiltonian mechanics. Numerical and graphical simulation of the chaotic system, computation of Lyapunov's exponent of the configuration for a thousand values of mass ratio.
 
-It is used MATLAB for numerical solution of differential equation (Runge-Kutta algorithm) and for computation of Lyapunov's exponent.
-It is used Processing for numerical and graphical simulation of the chaotic system.
+MATLAB is used for numerical solution of differential equation (Runge-Kutta algorithm) and for computation of Lyapunov's exponent.
+Processing is used for numerical and graphical simulation of the chaotic system.
 
 The report, written in Latex, is avaiable in Italian-version and soon in English-version.
 
